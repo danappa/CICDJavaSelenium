@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>test</groupId>
-  <artifactId>test</artifactId>
+  <artifactId>CICDProject</artifactId>
   <version>test</version>
 
   <name>test</name>
