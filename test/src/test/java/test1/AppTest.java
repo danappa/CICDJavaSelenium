@@ -20,6 +20,7 @@ public class AppTest {
         System.out.println("Test started executing!...........................");
         driver.get("https://www.google.com");
         System.out.println("Test execution completed!...........................");
+        driver.get("https://www.google.com");
         assertTrue(true);
     }
 }
