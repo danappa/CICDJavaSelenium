@@ -17,7 +17,9 @@ public class AppTest {
         options.addArguments("--disable-dev-shm-usage");
 
         WebDriver driver = new ChromeDriver(options);
+        System.out.println("Test started executing!...........................");
         driver.get("https://www.google.com");
+        System.out.println("Test execution completed!...........................");
         assertTrue(true);
     }
 }
